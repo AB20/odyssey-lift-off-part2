@@ -7,7 +7,7 @@ const resolvers = {
     },
 
     Track: {
-        author: (parent, _, {dataSources) => {}
+        author: (parent, _, {dataSources}) => {}
       }
 };
 
